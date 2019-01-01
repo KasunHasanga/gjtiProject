@@ -1,0 +1,31 @@
+
+h1{
+	background-color: green;
+	color:black;
+	cursor:url("pdf.png");
+}
+#para1{
+	background-color:yellow;
+	color:black;
+	padding:20px;
+	border-radius:10px;
+	cursor:url("ff.ico"),wait;
+}
+h2{
+	background-color: green;
+	color:black;
+	cursor:url("pdf.png");
+}
+#para2{
+	background-color:green;
+	color:black;
+	padding:20px;
+	border-radius:10px;
+	height:100px;
+	overflow:hidden;
+}
+
+
+a:hover{
+	cursor:url("pdf.png");
+}
